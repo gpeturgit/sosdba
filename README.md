@@ -1,0 +1,2 @@
+# sosdba
+mockdata fyrir sosapi
